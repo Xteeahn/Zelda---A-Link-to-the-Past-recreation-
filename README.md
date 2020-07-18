@@ -5,3 +5,5 @@ For compilation purposes the application requires javazoom to be installed. You 
 For example copy the jlayer-1.0.1.jar file to the "C:\Program Files\Java\jdk-14.0.2\bin" and make sure the path is added to your system environment PATH.
 
 I have uploaded a runnable jar (Zelda.jar) file as well for those interested.
+
+![zelda 1](https://user-images.githubusercontent.com/201718/87856737-56778a80-c921-11ea-986b-89a2bb8478eb.png)
